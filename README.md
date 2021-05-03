@@ -1,2 +1,2 @@
 # Airline-reservation-system
-A simple java based microproject
+A simple java based microproject on airline reservation system.
